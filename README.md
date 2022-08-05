@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manvendra-07
 - 👀 I’m interested in Artificial Intelligence, Competitive Coding, Web Developement and DataBase Handling.
-- 🌱 I’m currently learning Neural Networks.
+- 🌱 I’m currently learning Convolutional Neural Networks.
 - 💞️ I’m not looking to collaborate on projects as of now.
 - 📫 How to reach me : smanvendrasingh007@gmail.com is my personal email and manvendra.singh@learner.manipal.edu is my student email.
 
